@@ -1,0 +1,14 @@
+C:\Users\Rith\Desktop\C#\BirthYearFinder\obj\Debug\net8.0\BirthYearFinder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rith\Desktop\C#\BirthYearFinder\obj\Debug\net8.0\BirthYearFinder.AssemblyInfoInputs.cache
+C:\Users\Rith\Desktop\C#\BirthYearFinder\obj\Debug\net8.0\BirthYearFinder.AssemblyInfo.cs
+C:\Users\Rith\Desktop\C#\BirthYearFinder\obj\Debug\net8.0\BirthYearFinder.csproj.CoreCompileInputs.cache
+C:\Users\Rith\Desktop\C#\BirthYearFinder\bin\Debug\net8.0\BirthYearFinder.exe
+C:\Users\Rith\Desktop\C#\BirthYearFinder\bin\Debug\net8.0\BirthYearFinder.deps.json
+C:\Users\Rith\Desktop\C#\BirthYearFinder\bin\Debug\net8.0\BirthYearFinder.runtimeconfig.json
+C:\Users\Rith\Desktop\C#\BirthYearFinder\bin\Debug\net8.0\BirthYearFinder.dll
+C:\Users\Rith\Desktop\C#\BirthYearFinder\bin\Debug\net8.0\BirthYearFinder.pdb
+C:\Users\Rith\Desktop\C#\BirthYearFinder\obj\Debug\net8.0\BirthYearFinder.dll
+C:\Users\Rith\Desktop\C#\BirthYearFinder\obj\Debug\net8.0\refint\BirthYearFinder.dll
+C:\Users\Rith\Desktop\C#\BirthYearFinder\obj\Debug\net8.0\BirthYearFinder.pdb
+C:\Users\Rith\Desktop\C#\BirthYearFinder\obj\Debug\net8.0\BirthYearFinder.genruntimeconfig.cache
+C:\Users\Rith\Desktop\C#\BirthYearFinder\obj\Debug\net8.0\ref\BirthYearFinder.dll
