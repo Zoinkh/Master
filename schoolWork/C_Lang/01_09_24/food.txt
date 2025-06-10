@@ -1,0 +1,5 @@
+
+0   A3  apple   fuit    3.00    5   15.00   1234
+1   A2  cocoa  drink    4.00   7 28.00   1231
+2   A1  tomato  vegetable   4.00    7   28.00   2344
+

@@ -1,0 +1,17 @@
+.header{
+    background-image: url('image/pro (66).jpg');
+    height: 250px;
+}
+img{
+    max-width: 100%;
+}
+.row::after{
+    content:"";
+    clear: both;
+    display: table;
+}
+[class*="col-"]{
+    float: left;
+    padding: 15px;
+}
+.col-4 {width: 33%;}

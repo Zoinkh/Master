@@ -1,0 +1,14 @@
+C:\Users\Rith\Desktop\C#_Exercise\ex-9_Hote_lSystem\obj\Debug\net8.0\ex-9_Hote_lSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rith\Desktop\C#_Exercise\ex-9_Hote_lSystem\obj\Debug\net8.0\ex-9_Hote_lSystem.AssemblyInfoInputs.cache
+C:\Users\Rith\Desktop\C#_Exercise\ex-9_Hote_lSystem\obj\Debug\net8.0\ex-9_Hote_lSystem.AssemblyInfo.cs
+C:\Users\Rith\Desktop\C#_Exercise\ex-9_Hote_lSystem\obj\Debug\net8.0\ex-9_Hote_lSystem.csproj.CoreCompileInputs.cache
+C:\Users\Rith\Desktop\C#_Exercise\ex-9_Hote_lSystem\bin\Debug\net8.0\ex-9_Hote_lSystem.exe
+C:\Users\Rith\Desktop\C#_Exercise\ex-9_Hote_lSystem\bin\Debug\net8.0\ex-9_Hote_lSystem.deps.json
+C:\Users\Rith\Desktop\C#_Exercise\ex-9_Hote_lSystem\bin\Debug\net8.0\ex-9_Hote_lSystem.runtimeconfig.json
+C:\Users\Rith\Desktop\C#_Exercise\ex-9_Hote_lSystem\bin\Debug\net8.0\ex-9_Hote_lSystem.dll
+C:\Users\Rith\Desktop\C#_Exercise\ex-9_Hote_lSystem\bin\Debug\net8.0\ex-9_Hote_lSystem.pdb
+C:\Users\Rith\Desktop\C#_Exercise\ex-9_Hote_lSystem\obj\Debug\net8.0\ex-9_Hote_lSystem.dll
+C:\Users\Rith\Desktop\C#_Exercise\ex-9_Hote_lSystem\obj\Debug\net8.0\refint\ex-9_Hote_lSystem.dll
+C:\Users\Rith\Desktop\C#_Exercise\ex-9_Hote_lSystem\obj\Debug\net8.0\ex-9_Hote_lSystem.pdb
+C:\Users\Rith\Desktop\C#_Exercise\ex-9_Hote_lSystem\obj\Debug\net8.0\ex-9_Hote_lSystem.genruntimeconfig.cache
+C:\Users\Rith\Desktop\C#_Exercise\ex-9_Hote_lSystem\obj\Debug\net8.0\ref\ex-9_Hote_lSystem.dll

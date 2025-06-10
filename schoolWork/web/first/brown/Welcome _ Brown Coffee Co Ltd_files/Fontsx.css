@@ -1,0 +1,35 @@
+@charset "UTF-8";
+
+@font-face {
+    font-family: 'Assistant';
+    src: url('../bootstrap/fonts/local/Assistant-Regular.woff2') format('woff2')
+	,url('../bootstrap/fonts/local/Assistant-Regular.woff') format('woff')
+	,url('../bootstrap/fonts/local/Assistant-Regular.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'Nokora';
+    src: url('../bootstrap/fonts/local/Nokora.woff2') format('woff2')
+	,url('../bootstrap/fonts/local/Nokora.woff') format('woff')
+	,url('../bootstrap/fonts/local/Nokora.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'Raleway';
+    src: url('../bootstrap/fonts/local/Raleway-SemiBold.woff2') format('woff2')
+	,url('../bootstrap/fonts/local/Raleway-SemiBold.woff') format('woff')
+	,url('../bootstrap/fonts/local/Raleway-SemiBold.ttf') format('truetype');
+}
+/*
+@font-face {
+    font-family: 'Lora';
+    src: url('../bootstrap/fonts/local/Lora-Italic.woff2') format('woff2')
+	,url('../bootstrap/fonts/local/Lora-Italic.woff') format('woff')
+	,url('../bootstrap/fonts/local/Lora-Italic.ttf') format('truetype')
+	,url('../bootstrap/fonts/local/Lora-Italic.eot') format('eot');
+}
+*/
+@font-face {
+    font-family: 'BG';
+    src: url('../bootstrap/fonts/local/BG.woff2') format('woff2')
+	,url('../bootstrap/fonts/local/BG.woff') format('woff')
+	,url('../bootstrap/fonts/local/BG.ttf') format('truetype');
+}
